@@ -10,8 +10,8 @@ import HelloWorld from './components/HelloWorld.vue'
       <section class="flex justify-center">
         <img alt="Vue logo" src="./assets/logo.png" />
       </section>
-      
-      <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" />
+
+      <HelloWorld msg="Hello Vite + Unocss + Storybook" />
     </div>
   </main>
 </template>
