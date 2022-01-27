@@ -8,9 +8,9 @@ import HelloWorld from './components/HelloWorld.vue'
   <main class="p-4">
     <div class="container mx-auto">
       <section class="flex justify-center">
-
         <img alt="Vue logo" src="./assets/logo.png" />
       </section>
+      
       <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" />
     </div>
   </main>
@@ -18,7 +18,6 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <style>
 #app {
-  font-family: Poppins, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
